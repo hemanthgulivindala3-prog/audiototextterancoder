@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+openai-whisper
+ffmpeg-python==0.2.0
+pydub==0.25.1
+aiofiles==23.2.1
+httpx==0.27.0
+python-dotenv==1.0.1
+torch
+torchaudio
+numpy
+soundfile

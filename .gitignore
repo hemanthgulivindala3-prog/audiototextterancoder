@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Temporary audio chunks
+whisper_chunks_*/
